@@ -44,8 +44,3 @@ The following Python libraries were used throughout the certification:
 
 [Image Classifier with ResNet18](https://github.com/Codesaur1618/crack_detection_IBM_capstone)
 
-## 🏆 Certificates
-<p align="middle">
-  <a href="https://coursera.org/verify/professional-cert/QKN2JGPTQEL7"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/Asset/Coursera%20QKN2JGPTQEL7.jpg" height="370"></a>
-  <a href="https://www.credly.com/badges/c6d112c8-e9e2-435a-8773-31ed05da69f5"><img src="https://github.com/HazmanNaim/IBM-AI-Engineering-Professional-Certificate/blob/main/Asset/Professional_Certificate-AI_Engineering.png" height="370"></a>
-</p>
